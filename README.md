@@ -1,4 +1,13 @@
 # 💫 About Me:
+<p align="left">
+  <a href="https://leetcode.com/vaibhavsethia110/">
+    <img src="https://cp-logo.vercel.app/leetcode/vaibhavsethia110" alt="LeetCode rating" />
+   <a href="https://www.codechef.com/users/vaibhavsethia0">
+    <img src="https://cp-logo.vercel.app/codechef/vaibhavsethia0" alt="CodeChef rating" />
+   <a href="https://vaibhavsethia07.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-vaibhavsethia07-blue" alt="Portfolio" />
+</p>
+
 🔭 I’m currently working as a Software Engineer, building backend for web applications<br>👯 I’m looking for freelance projects<br>🌱 I’m currently learning React.js and Django<br>💬 Ask me about competitive programming<br>⚡ Fun fact: I do 80% of work in 20% of my time 
 
 
